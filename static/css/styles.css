@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  video {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    transform: rotateY(180deg); /* Mirror the video */
+  }
+  
